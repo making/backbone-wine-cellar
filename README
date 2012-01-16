@@ -1,0 +1,4 @@
+Spring MVC + JPA implementation of The Wine Cellar application (https://github.com/ccoenraets/backbone-jax-cellar)
+
+$ mvn tomcat7:run 
+access http://localhost:8080/wine-cellar/
